@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | T.J. Del Santo O&#39;Neill</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© T. J. Del Santo O&#39;Neill 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a 1&lt;sup&gt;st&lt;/sup&gt; year PhD student in Biological Sciences on the &lt;a href=&#34;http://lido-dtp.ac.uk/&#34; target=&#34;_blank&#34;&gt;London Interdisciplinary Doctoral Programme&lt;/a&gt; (LIDo) funded by the &lt;a href=&#34;https://bbsrc.ukri.org/&#34; target=&#34;_blank&#34;&gt;Biotechnology and Biological Sciences Research Council&lt;/a&gt; (BBSRC) at &lt;a href=&#34;https://www.qmul.ac.uk/&#34; target=&#34;_blank&#34;&gt;Queen Mary, University of London&lt;/a&gt; (QMUL).&lt;/p&gt;
+
+&lt;p&gt;I am working on the optimisation of &lt;strong&gt;Maximum Sustainable Yield&lt;/strong&gt; (MSY) from &lt;strong&gt;mixed-fisheries&lt;/strong&gt; where &lt;strong&gt;multiple stocks&lt;/strong&gt; (&lt;em&gt;i.e.&lt;/em&gt; species) interact through &lt;strong&gt;predation&lt;/strong&gt; and &lt;strong&gt;competition&lt;/strong&gt;. My workflow comprises the usage of &lt;strong&gt;food web models&lt;/strong&gt; that render natural marine ecosystems (&lt;em&gt;e.g.&lt;/em&gt; &lt;strong&gt;North Sea&lt;/strong&gt;) to evaluate the attainability of MSY defined in the context of &lt;strong&gt;Game Theory&lt;/strong&gt;. A breif description of the project is provided &lt;a href=&#34;https://www.qmul.ac.uk/sbcs/postgraduate/phd-programmes/projects/display-title-640415-en.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
