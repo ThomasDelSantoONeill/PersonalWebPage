@@ -22,7 +22,7 @@ interests:
 - Programming
 - Phylosophy of Science
 - Statistics
-name: T. J. Del Santo O'Neill
+name: Thomas J. Del Santo O'Neill
 organizations:
 - name: Queen Mary, University of London
   url: ""
